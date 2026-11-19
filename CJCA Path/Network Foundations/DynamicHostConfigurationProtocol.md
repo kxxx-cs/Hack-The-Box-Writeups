@@ -1,8 +1,8 @@
-# What protocol automates IP address configuration for devices on a network?
-DHCP
+1. What protocol automates IP address configuration for devices on a network?\
+Ans: DHCP
 
-# What acronym describes the sequence of messages exchanged during the DHCP process?
-DORA
+2. What acronym describes the sequence of messages exchanged during the DHCP process?\
+Ans: DORA
 
-# What type of message does a client send to accept an IP address from a DHCP server?
-Request
+3. What type of message does a client send to accept an IP address from a DHCP server?\
+Ans: Request
