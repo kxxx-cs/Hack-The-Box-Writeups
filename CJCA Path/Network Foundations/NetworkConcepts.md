@@ -1,26 +1,26 @@
-# What layer of the OSI model is responsible for physical connections like Ethernet cables? (Format: two words)
-Physical layer
+1. What layer of the OSI model is responsible for physical connections like Ethernet cables? (Format: two words)\
+Ans: Physical layer
 
-# Name the OSI layer that deals with logical addressing and routing. (Format: two words)
-Network layer
+2. Name the OSI layer that deals with logical addressing and routing. (Format: two words)\
+Ans: Network layer
 
-# Which protocol ensures reliable delivery of data and operates at the Transport Layer?
-TCP
+3. Which protocol ensures reliable delivery of data and operates at the Transport Layer?\
+Ans: TCP
 
-# At what layer do switches operate within the OSI model? (Format: three words)
-Data Link Layer
+4. At what layer do switches operate within the OSI model? (Format: three words)\
+Ans: Data Link Layer
 
-# What layer of the TCP/IP model corresponds to the OSI model’s Application, Presentation, and Session layers? (Format: two words)
-Application Layer
+5. What layer of the TCP/IP model corresponds to the OSI model’s Application, Presentation, and Session layers? (Format: two words)\
+Ans: Application Layer
 
-# Which layer of the OSI model manages data encryption and data format conversion? (Format: two words)
-Presentation Layer
+6. Which layer of the OSI model manages data encryption and data format conversion? (Format: two words)\
+Ans: Presentation Layer
 
-# Name a protocol used for web browsing that operates at the Application Layer.
-HTTP
+7. Name a protocol used for web browsing that operates at the Application Layer.\
+Ans: HTTP
 
-# Which OSI layer ensures the segments are transferred reliably and in sequence? (Format: two words)
-Transport Layer
+8. Which OSI layer ensures the segments are transferred reliably and in sequence? (Format: two words)\
+Ans: Transport Layer
 
-# Which protocol provides fast, connectionless communication and operates at the Transport Layer?
-UDP
+9. Which protocol provides fast, connectionless communication and operates at the Transport Layer?\
+Ans: UDP
