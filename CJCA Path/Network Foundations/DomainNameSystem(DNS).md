@@ -1,20 +1,20 @@
-# What type of domain is `.com` considered as? (Format: Three words, example: One-Two Three)
-top-level domain
+1. What type of domain is `.com` considered as? (Format: Three words, example: One-Two Three)\
+Ans: top-level domain
 
-# In the domain `www.example.com`, what is `example` called?
-second-level domain
+2. In the domain `www.example.com`, what is `example` called?\
+Ans: second-level domain
 
-# What is checked first in the DNS resolution process when you enter a domain name into a browser? (Format: Two words)
-DNS cache
+3. What is checked first in the DNS resolution process when you enter a domain name into a browser? (Format: Two words)\
+Ans: DNS cache
 
-# What type of DNS server is typically provided by an Internet Service Provider?
-recursive DNS server
+4. What type of DNS server is typically provided by an Internet Service Provider?\
+Ans: recursive DNS server
 
-# Which server directs the recursive DNS server to the appropriate TLD name server?
-root server
+5. Which server directs the recursive DNS server to the appropriate TLD name server?\
+Ans: root server
 
-# What numerical label uniquely identifies a device on a network?
-ip address
+6. What numerical label uniquely identifies a device on a network?\
+Ans: ip address
 
-# In the URL "accounts.google.com", what is `accounts` considered as?
-subdomain
+7. In the URL "accounts.google.com", what is `accounts` considered as?\
+Ans: subdomain
