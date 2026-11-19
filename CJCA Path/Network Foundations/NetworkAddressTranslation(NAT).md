@@ -1,14 +1,14 @@
-# What type of NAT allows multiple private IP addresses to share one public IP address using unique port numbers?
-PAT
+1. What type of NAT allows multiple private IP addresses to share one public IP address using unique port numbers?\
+Ans: PAT
 
-# What RFC specifies private IP ranges?
-RFC 1918
+2. What RFC specifies private IP ranges?\
+Ans: RFC 1918
 
-# Which NAT type involves a one-to-one mapping of private IP addresses to public IP addresses?
-Static NAT
+3. Which NAT type involves a one-to-one mapping of private IP addresses to public IP addresses?\
+Ans: Static NAT
 
-# What type of NAT assigns a public IP from a pool as needed?
-Dynamic NAT
+4. What type of NAT assigns a public IP from a pool as needed?\
+Ans: Dynamic NAT
 
-# What device typically performs NAT in a home network?
-Router
+5. What device typically performs NAT in a home network?\
+Ans: Router
