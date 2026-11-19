@@ -1,6 +1,5 @@
 #### What type of waves do wireless networks use to connect devices? (Format: two words)
-radio waves
-\n
+radio waves\
 #### What device combines the functions of routing and providing Wi-Fi coverage in a home network? (Format: two words)
 wireless router
 \n
