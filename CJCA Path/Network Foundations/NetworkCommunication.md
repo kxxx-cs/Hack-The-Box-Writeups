@@ -1,14 +1,14 @@
-# What protocol maps IP addresses to MAC addresses?
-ARP
+1. What protocol maps IP addresses to MAC addresses?\
+Ans: ARP
 
-# Which IP version uses 128-bit addressing?
-IPv6
+2. Which IP version uses 128-bit addressing?\
+Ans: IPv6
 
-# At which layer of the OSI model do ports operate? (Format: two words)
-Transport Layer
+3. At which layer of the OSI model do ports operate? (Format: two words)\
+Ans: Transport Layer
 
-# What is the designated port number for HTTP?
-80
+4. What is the designated port number for HTTP?\
+Ans: 80
 
-# What is the first step in the process of a web browsing session? (Format: two words)
-DNS Lookup
+5. What is the first step in the process of a web browsing session? (Format: two words)\
+Ans: DNS Lookup
