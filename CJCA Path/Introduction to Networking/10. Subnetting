@@ -1,0 +1,9 @@
+# Subnetting
+
+1. Submit the decimal representation of the subnet mask from the following CIDR: 10.200.20.0/27\
+Ans: 255.255.255.224\
+Solution:\
+`255.255.255.255` to binary = `11111111.11111111.11111111.11111111`\
+|1|1|1|1|1|1|1|1|
+|-|-|-|-|-|-|-|-|
+|128|64|32|16|8|4|2|1|
