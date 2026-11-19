@@ -1,17 +1,17 @@
-#### What device monitors network traffic and enforces rules to allow or block specific traffic?
-firewall
+1. What device monitors network traffic and enforces rules to allow or block specific traffic?
+Ans: firewall
 
-#### Which type of firewall operates at the network and transport layers of the OSI model? (Format: two words)
-packet filtering
+2. Which type of firewall operates at the network and transport layers of the OSI model? (Format: two words)
+Ans: packet filtering
 
-#### What advanced feature does a Next-Generation Firewall include beyond stateful inspection? (Format: three words)
-deep packet inspection
+3. What advanced feature does a Next-Generation Firewall include beyond stateful inspection? (Format: three words)
+Ans: deep packet inspection
 
-#### Which system generates alerts for suspicious network activity without blocking it? (Format: acronym)
-IDS
+4. Which system generates alerts for suspicious network activity without blocking it? (Format: acronym)
+Ans: IDS
 
-#### Which system not only detects but also prevents suspicious network activity by blocking it? (Format: acronym)
-IPS
+5. Which system not only detects but also prevents suspicious network activity by blocking it? (Format: acronym)
+Ans: IPS
 
-#### What detection method involves comparing network traffic against a database of known exploits? (Format: three words)
-Signature-based detection
+6. What detection method involves comparing network traffic against a database of known exploits? (Format: three words)
+Ans: Signature-based detection
