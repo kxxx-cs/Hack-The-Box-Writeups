@@ -1,0 +1,23 @@
+# File System Management
+
+**1. How many partitions exist in our Pwnbox? (Format: 0)**
+
+Ans: 3
+
+Solution:
+
+```bash
+┌─[us-academy-1]─[10.10.15.147]─[htb-ac-2686906@htb-odtzclrhfv]─[~]
+└──╼ [★]$ sudo fdisk -l
+Disk /dev/vda: 50 GiB, 53687091200 bytes, 104857600 sectors
+Units: sectors of 1 * 512 = 512 bytes
+Sector size (logical/physical): 512 bytes / 512 bytes
+I/O size (minimum/optimal): 512 bytes / 512 bytes
+Disklabel type: dos
+Disk identifier: 0x2f03e210
+
+Device     Boot    Start       End  Sectors  Size Id Type
+/dev/vda1  *        2048  99422207 99420160 47.4G 83 Linux
+/dev/vda2       99424254 104855551  5431298  2.6G  f W95 Ext'd (LBA)
+/dev/vda5       99424256 104855551  5431296  2.6G 82 Linux swap / Solaris
+```
