@@ -1,0 +1,24 @@
+# Command Prompt Basics
+
+**1. In what directory can the cmd executable be found? (just the folder name as answer)**\
+Ans: System32
+
+```bash
+┌──(kali㉿kali)-[~/htb]
+└─$ ssh htb-student@10.129.203.105
+** WARNING: connection is not using a post-quantum key exchange algorithm.
+** This session may be vulnerable to "store now, decrypt later" attacks.
+** The server may need to be upgraded. See https://openssh.com/pq.html
+htb-student@10.129.203.105's password: 
+
+
+PS C:\Users\htb-student> Get-ChildItem -Path "C:\" -Filter "cmd.exe" -Recurse -File -ErrorAction SilentlyContinue    
+
+
+    Directory: C:\Windows\System32
+
+
+Mode                 LastWriteTime         Length Name                                                                                           
+----                 -------------         ------ ----                                                                                           
+-a----          6/5/2021   5:05 AM         331776 cmd.exe
+```
